@@ -8,8 +8,8 @@
 </head>
 <body>
 <?php
-    $firstname = "Jaroslav"
-    $avatar = "parzival.jpg"
+    $firstname = "Jaroslav";
+    $avatar = "parzival.jpg";
     ?>
 <h1>Výpis profil</h1>
 <ul>
